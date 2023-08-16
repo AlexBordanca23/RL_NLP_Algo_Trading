@@ -1,0 +1,71 @@
+# macOS system files
+.DS_Store
+
+# Text editor temporary files
+*.swp
+*~
+*.swo
+
+# Python-related files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment folders
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Compiled binary files
+*.pyc
+*.pyo
+*.so
+*.dll
+
+# IDE-specific files and directories
+.idea/
+.vscode/
+*.sublime-*
+*.komodoproject
+
+# Compiled Python bytecode
+__pycache__/
+*.pyc
+
+# Logs and other temporary files
+*.log
+logs/
+*.tmp
+
+# Compiled files
+*.class
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Compiled fonts and images
+*.woff
+*.woff2
+*.ttf
+*.eot
+*.svg
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# macOS Finder metadata files
+.AppleDouble
+.DS_Store
+._*
+
+# Thumbs.db files
+Thumbs.db
+
+# Android build output
+bin/
+gen/
+
